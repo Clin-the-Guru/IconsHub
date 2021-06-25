@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">IconsHub</string>
+    <string name="iconshub_logo">Iconshub_logo</string>
+    <string name="slider_1">slider_1</string>
+    <string name="Slider_1_description">An Open Space for Researchers , Innovators ,Consultants and Students</string>
+    <string name="subscribe">subscribe</string>
+    <string name="slider_image">slider_image</string>
+    <string name="slider_image_description">We have a Unique space for Learning and Development</string>
+    <string name="Slider_3_image_description"><![CDATA[Simple, Intuitive & Expertly Crafted!]]></string>
+    <string name="co_working_space">Co-Working Space</string>
+    <string name="co_working_description">We offer co-working space for entrepreneurs, start-ups and personal space</string>
+    <string name="high_speed_internet">High Speed Internet</string>
+    <string name="high_speed_internet_description">We at iCON Hub offers services with high speeds of internet for your research, conference calls and innovation.</string>
+    <string name="events_networking"><![CDATA[Events & Networking]]></string>
+    <string name="Event_description">We offer venue for events and plat</string>
+    <string name="snacks_shop">Snacks Shop</string>
+    <string name="snack_shop_description">Feel free to Drop in for a few snacks on your way home</string>
+    <string name="garden_and_recreation">Garden and Recreation</string>
+    <string name="Garden_description">Let Go of yourself with our cool and Refreshing Garden, Or just take a picture and save the memory</string>
+    <string name="board_room">Board Room</string>
+    <string name="Board_room_description">An All-Equipped BoardRoom Is Just The Perfect Place For Your Meetings. What Are You Waiting For?</string>
+    <string name="consultancy">Consultancy</string>
+    <string name="consultancy_description">A perfect consultancy office is what you need to give the best to your clients</string>
+    <string name="contact">Contact</string>
+    <string name="social">Social</string>
+    <string name="payments">Payments</string>
+    <string name="help">Help</string>
+    <string name="innovation">Innovation</string>
+    <string name="plans">plans</string>
+    <string name="accounts">Accounts</string>
+    <string name="about_us">About Us</string>
+    <string name="plan">Plans</string>
+</resources>

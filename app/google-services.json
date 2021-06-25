@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264464499116",
+    "project_id": "iconshub-afef5",
+    "storage_bucket": "iconshub-afef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264464499116:android:9db7b4b8fa5e02b2faba09",
+        "android_client_info": {
+          "package_name": "com.icon.iconshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264464499116-goh94n38sveoph8osba54eu5d6esoitp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaY3nBpI9kg51kwI_tdkUTYZlSMbSK1zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264464499116-goh94n38sveoph8osba54eu5d6esoitp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
